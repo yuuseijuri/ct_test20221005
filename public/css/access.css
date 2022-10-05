@@ -1,0 +1,127 @@
+.content {
+  width: 70vw;
+  height: 100vh;
+  background-color: #F0F8FF;
+}
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 5px;
+}
+.text {
+  width: 100%;
+}
+.title_1, .title_2, .title_3, .title_4, .title_5, .title_6, .title_7 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 100px;
+}
+span {
+  color: red;
+  margin-right: 50px;
+}
+.text_1,
+.text_2 {
+  padding: 10px;
+  font-size: 20px;
+  width: 30%;
+  border: 2px solid #D3D3D3;
+  border-radius: 8px;
+}
+.text_1 {
+  margin: 0 20px 0 80px;
+}
+.example_1 {
+  margin: 0 30% 10px 30%;
+  font-size: 16px;
+  font-weight: normal;
+  color: #D3D3D3;
+}
+.example_2 {
+  font-size: 16px;
+  font-weight: normal;
+  color: #D3D3D3;
+}
+input[type=radio] {
+  accent-color: black;
+}
+.select_1 {
+  margin: 20px 15px 20px 110px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.select_2 {
+  margin: 20px 15px 20px 35px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.email {
+  padding: 10px;
+  font-size: 20px;
+  width: 62%;
+  border: 2px solid #D3D3D3;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+.example_3, .example_4, .example_5, .example_6 {
+  font-size: 16px;
+  font-weight: normal;
+  color: #D3D3D3;
+  margin: 0 0 5px 30%;
+}
+a {
+  margin-left: 60px;
+}
+.postcode {
+  padding: 10px;
+  font-size: 20px;
+  width: 60%;
+  border: 2px solid #D3D3D3;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+.address {
+  padding: 10px;
+  font-size: 20px;
+  width: 73%;
+  border: 2px solid #D3D3D3;
+  border-radius: 8px;
+  margin: 0 0 5px 105px;
+}
+.building_name {
+  padding: 10px;
+  font-size: 20px;
+  width: 62%;
+  border: 2px solid #D3D3D3;
+  border-radius: 8px;
+  margin: 0 0 5px 160px;
+}
+.opinion {
+  padding: 10px;
+  font-size: 20px;
+  width: 62%;
+  border: 2px solid #D3D3D3;
+  border-radius: 8px;
+  margin: 0 0 10px 30%;
+}
+button {
+  padding: 5px 60px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
+  display: block;
+  margin: 0 auto;
+}
+button:hover {
+  color: black;
+  background-color: white;
+}
+li {
+  color: red;
+  font-size: 20px;
+  font-weight: normal;
+  margin-left: 30%;
+}
